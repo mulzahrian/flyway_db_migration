@@ -1,0 +1,8 @@
+rootProject.name = 'crud'
+include 'application'
+include 'applicationSecond'
+include 'applicationSecond'
+include 'applicationSecond'
+include 'Sistem'
+include 'app'
+
