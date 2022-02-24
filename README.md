@@ -1,2 +1,2 @@
 # flyway_db_migration
-generate db with mysql
+generate automaticly database with mysql 
